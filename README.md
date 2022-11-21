@@ -13,3 +13,6 @@ Assignment 3:-
 Assignment 4:-
   Insertion of records into respective table and retrieving the mysql queries
 
+Project:-
+  E Commerce Management System (Only Backend)
+
